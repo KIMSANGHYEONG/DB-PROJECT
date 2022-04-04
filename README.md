@@ -48,26 +48,6 @@
 ## TABLE
 
 
-
-#### 회원 정보
-
-* 아이디
-* 비밀번호
-* 닉네임
-
-
-
-#### 글 목록
-
-* 아이디
-* 닉네임
-* 글 제목
-* 본문
-* 시간
-
-
-
-
 ![image](https://user-images.githubusercontent.com/81346173/161489416-805fedac-b25a-4500-9ad0-391f3adf9aaa.png)
 
 
