@@ -66,11 +66,6 @@
 * 시간
 
 
-graph TD
-  A[Christmas] --> |Get Money| B(Go shopping)
-  B --> C{let me think}
-
-
 
 
 
