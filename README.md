@@ -67,8 +67,8 @@
 
 
 graph TD
-A[Christmas] --> |Get Money| B(Go shopping)
-B --> C{let me think}
+  A[Christmas] --> |Get Money| B(Go shopping)
+  B --> C{let me think}
 
 
 
