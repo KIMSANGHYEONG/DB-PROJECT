@@ -48,8 +48,7 @@
 ## TABLE
 
 
-![image](https://user-images.githubusercontent.com/81346173/168541485-1ee080d1-612b-47da-8218-be3579eabe1e.png)
-
+![image](https://user-images.githubusercontent.com/81346173/168541651-b97169f9-70f5-454b-97b1-c018ca5a7be1.png)
 
 
 
