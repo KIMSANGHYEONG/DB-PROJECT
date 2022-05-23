@@ -64,6 +64,7 @@
 10. 관리자는 모든 글과 댓글에 대해 삭제할 수 있다.
 11. 관리자는 아이디로 식별한다.
 
-
+## 릴레이션 스키마
+![image](https://user-images.githubusercontent.com/81346173/169763206-e71bcd33-9d8a-49e8-a7fc-472d428f9759.png)
 
 
