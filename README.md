@@ -68,4 +68,4 @@
 ![image](https://user-images.githubusercontent.com/81346173/169763206-e71bcd33-9d8a-49e8-a7fc-472d428f9759.png)
 
 ## 테이블
-![image](https://user-images.githubusercontent.com/81346173/169768347-b6ef38d9-caa1-4589-8a1f-2accee9b30a1.png)
+![image](https://user-images.githubusercontent.com/81346173/169768570-721d0eaa-638f-4a47-b527-21c1ac319abf.png)
