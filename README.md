@@ -68,26 +68,4 @@
 ![image](https://user-images.githubusercontent.com/81346173/169763206-e71bcd33-9d8a-49e8-a7fc-472d428f9759.png)
 
 ## 테이블
-CREATE TABLE 회원(
-  회원아이디 VARCHAR(20) NOT NULL,
-  비밀번호 VARCHAR(20) NOT NULL,
-  닉네임 VARCHAR(20) NOT NULL,
-  PRIMARY KEY(회원아이디)
-);
-
-CREATE TABLE 관리자(
-  관리자아이디 VARCHAR(20) NOT NULL,
-  비밀번호 VARCHAR(20) NOT NULL,
-  닉네임 VARCHAR(20) NOT NULL,
-  PRIMARY KEY(관리자아이디)
-);
-
-CREATE TABLE 작성자(
-  작성자아이디 VARCHAR(20) NOT NULL,
-  비밀번호 VARCHAR(20) NOT NULL,
-  닉네임 VARCHAR(20) NOT NULL,
-  PRIMARY KEY(작성자아이디)
-);
-
-CREATE TABLE 댓글(
-  댓글번호 INT
+![image](https://user-images.githubusercontent.com/81346173/169768347-b6ef38d9-caa1-4589-8a1f-2accee9b30a1.png)
