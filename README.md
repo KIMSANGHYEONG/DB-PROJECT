@@ -22,7 +22,7 @@
 ## TABLE
 
 
-![image](https://user-images.githubusercontent.com/81346173/168541651-b97169f9-70f5-454b-97b1-c018ca5a7be1.png)
+![image](https://user-images.githubusercontent.com/81346173/174550478-e7102b58-e194-4fb6-b0ff-40d812680080.png)
 
 
 ## 요구사항 명세서
