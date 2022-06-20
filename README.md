@@ -43,4 +43,5 @@
 ![image](https://user-images.githubusercontent.com/81346173/169763206-e71bcd33-9d8a-49e8-a7fc-472d428f9759.png)
 
 ## 테이블
-![image](https://user-images.githubusercontent.com/81346173/169768570-721d0eaa-638f-4a47-b527-21c1ac319abf.png)
+![image](https://user-images.githubusercontent.com/81346173/174545223-457e0b73-7649-4aa5-8c95-a260ec1f7af4.png)
+
