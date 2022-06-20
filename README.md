@@ -40,7 +40,7 @@
 11. 관리자는 아이디로 식별한다.
 
 ## 릴레이션 스키마
-![image](https://user-images.githubusercontent.com/81346173/169763206-e71bcd33-9d8a-49e8-a7fc-472d428f9759.png)
+![image](https://user-images.githubusercontent.com/81346173/174546246-9d6264d7-d354-4294-ba25-d945cee06df3.png)
 
 ## 테이블
 ![image](https://user-images.githubusercontent.com/81346173/174545223-457e0b73-7649-4aa5-8c95-a260ec1f7af4.png)
